@@ -102,11 +102,13 @@ C:\Users\USER\OneDrive\Pictures\Screenshots
 E:\Data Analyst course for professional\Analyzing and Visualizing Data with Power BI and SQL
 
 Review the Data Insertion SQL Script: 
-E:\Data Analyst course for professional\Analyzing and Visualizing Data with Power BI and SQL
-E:\Data Analyst course for professional\Analyzing and Visualizing Data with Power BI and SQL
+https://github.com/Toibul/Data-Analyst-Portfolio-Projects/blob/5eb66c77b7d87afa3de953c6b8f262bbd620ee89/01_Database%20%26%20Inserting%20Data.sql
+
+Review the Data Cleaning and Validation SQL script:
+https://github.com/Toibul/Data-Analyst-Portfolio-Projects/blob/5eb66c77b7d87afa3de953c6b8f262bbd620ee89/02_Data%20Cleaning%20and%20Validation.sql
 
 Review the Data Exploration SQL Script:
-E:\Data Analyst course for professional\Analyzing and Visualizing Data with Power BI and SQL
+https://github.com/Toibul/Data-Analyst-Portfolio-Projects/blob/5eb66c77b7d87afa3de953c6b8f262bbd620ee89/03_Superstore_sales_Data%20Exploratory.sql
 
 ## Excel -
 Kindly download these Excel files from this repository and view them in Microsoft Excel.
