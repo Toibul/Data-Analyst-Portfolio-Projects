@@ -95,11 +95,11 @@ superstore-sales-dashboard/
 ## SQL & Tableau -
 superstore sales dataset
 See on PowerBI: 
-C:\Users\USER\OneDrive\Pictures\Screenshots
-C:\Users\USER\OneDrive\Pictures\Screenshots
-C:\Users\USER\OneDrive\Pictures\Screenshots
-C:\Users\USER\OneDrive\Pictures\Screenshots
-E:\Data Analyst course for professional\Analyzing and Visualizing Data with Power BI and SQL
+<img width="1361" height="717" alt="Superstore_KPI_Summary" src="https://github.com/user-attachments/assets/5890bf85-06fd-4b74-a7d2-562ab16bb80c" />
+<img width="1363" height="716" alt="Superstore_region" src="https://github.com/user-attachments/assets/9478668c-5035-440e-8706-13b3bc424506" />
+<img width="1365" height="719" alt="Superstore_category" src="https://github.com/user-attachments/assets/e3b429cb-a04b-498e-8ccb-c2e8864a8d4d" />
+<img width="1363" height="717" alt="Superstore_customer_insights" src="https://github.com/user-attachments/assets/1bcf1305-f149-4ac2-8d92-f6ab7c94448f" />
+
 
 Review the Data Insertion SQL Script: 
 https://github.com/Toibul/Data-Analyst-Portfolio-Projects/blob/5eb66c77b7d87afa3de953c6b8f262bbd620ee89/01_Database%20%26%20Inserting%20Data.sql
@@ -114,10 +114,12 @@ https://github.com/Toibul/Data-Analyst-Portfolio-Projects/blob/5eb66c77b7d87afa3
 Kindly download these Excel files from this repository and view them in Microsoft Excel.
 
 Car sales Sample: Sales Performance Dashboard
-C:\Users\USER\OneDrive\Pictures\Screenshots
-C:\Users\USER\OneDrive\Pictures\Screenshots
-C:\Users\USER\OneDrive\Pictures\Screenshots
-C:\Users\USER\OneDrive\Pictures\Screenshots
+<img width="1358" height="728" alt="Car_Sales_kaggle 1" src="https://github.com/user-attachments/assets/1942a9d5-3395-4a73-aef0-991eb67b05cd" />
+<img width="1360" height="710" alt="Car_Sales_kaggle 2" src="https://github.com/user-attachments/assets/619c469b-d190-4d62-a8bf-78178cb80346" />
+<img width="1361" height="718" alt="Car_Sales_kaggle 3" src="https://github.com/user-attachments/assets/673d3b9f-7950-4c54-adf9-76a32fe39ddb" />
+## IBM Cognos Analytics:
+<img width="801" height="554" alt="Car_model_sales visualization By IBM_Cognos" src="https://github.com/user-attachments/assets/aa1f2d0b-0076-42f9-ac2f-dd1a0059bcf5" />
+
 
 ---
 
