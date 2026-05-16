@@ -95,11 +95,10 @@ superstore-sales-dashboard/
 ## SQL & Tableau -
 superstore sales dataset
 See on PowerBI: 
-<img width="1361" height="717" alt="Superstore_KPI_Summary" src="https://github.com/user-attachments/assets/5890bf85-06fd-4b74-a7d2-562ab16bb80c" />
-<img width="1363" height="716" alt="Superstore_region" src="https://github.com/user-attachments/assets/9478668c-5035-440e-8706-13b3bc424506" />
-<img width="1365" height="719" alt="Superstore_category" src="https://github.com/user-attachments/assets/e3b429cb-a04b-498e-8ccb-c2e8864a8d4d" />
-<img width="1363" height="717" alt="Superstore_customer_insights" src="https://github.com/user-attachments/assets/1bcf1305-f149-4ac2-8d92-f6ab7c94448f" />
-
+<img width="1363" height="717" alt="Superstore_KPI_Summary" src="https://github.com/user-attachments/assets/1ca84daf-9412-4a38-9e6f-406d4af3cc35" />
+<img width="1364" height="719" alt="Superstore_Region" src="https://github.com/user-attachments/assets/38e49cb7-1590-41b8-9050-dd04bf41ca24" />
+<img width="1365" height="722" alt="Superstore_Customer_Analysis" src="https://github.com/user-attachments/assets/50512b82-d7f9-4936-bb26-0c2bc807e4be" />
+<img width="1363" height="715" alt="Superstore_Category" src="https://github.com/user-attachments/assets/e87a8039-3a31-4cf2-9638-89f479a9b77f" />
 
 Review the Data Insertion SQL Script: 
 https://github.com/Toibul/Data-Analyst-Portfolio-Projects/blob/5eb66c77b7d87afa3de953c6b8f262bbd620ee89/01_Database%20%26%20Inserting%20Data.sql
